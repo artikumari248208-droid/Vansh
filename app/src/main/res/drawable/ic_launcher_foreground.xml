@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Letter H with bold rounded strokes matching the provided logo -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="11"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M34,30v34 M74,30v34 M34,47h40" />
+
+    <!-- Perfectly centered round dot below the letter H -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,79m-5.5,0a5.5,5.5 0 1,1 11,0a5.5,5.5 0 1,1 -11,0" />
+        
+</vector>

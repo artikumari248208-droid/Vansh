@@ -1,0 +1,6 @@
+{
+  "name": "Hello",
+  "description": "A minimal, monochrome Indian AI Assistant featuring conversational intelligence, custom creation flows, and NCERT educational solutions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
